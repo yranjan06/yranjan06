@@ -1,4 +1,4 @@
-# _ᓚᘏᗢ__ Hi, I'm Ranjan
+# ☕︎ Hi, I'm Ranjan
 <div align="left">
   <i>Just another builder in the ecosystem — shipping, breaking, and learning on loop.</i>
 </div>
