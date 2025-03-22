@@ -29,10 +29,10 @@ Feel free to check out my socials below.
 ### `$ connect --with me`
 <pre>
 # Social links
-gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
-ln:    <a href="https://linkedin.com/in/yranjan09">/in/yranjan09</a>
-email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
-X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
+<img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="15px" style="vertical-align: middle;"> ln:    <a href="https://linkedin.com/in/yranjan09">/in/yranjan09</a>
+<img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
+<img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
 </pre>
 
 ---
