@@ -1,30 +1,55 @@
-## Hi there! 👋 I'm Ranjan.
+<!-- Banner Image (dark-theme friendly) -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Ranjan's Banner" width="100%" />
+</p>
 
-🚀 **Full-Stack Developer | MERN Enthusiast | Open Source Contributor**
+<h1 align="center">Hey, I'm Ranjan</h1>
 
-- 🔭 I’m currently working on MERN projects and Web Extensions.
-- 🌱 Learning more about Web Performance Optimization and TypeScript.
-- 💬 Ask me about JavaScript, React, and Backend Development.
-- 📫 How to reach me: [Your Email or LinkedIn Link]
-
----
-
-### 🔥 GitHub Stats
-![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yranjan06&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yranjan06&layout=compact&theme=radical)
+<p align="center">
+  Just another builder in the ecosystem — shipping, breaking, and learning on loop.  
+</p>
 
 ---
 
-### 🚀 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### About Me
 
+I’m into **Math**, **Machine Learning**, and building **smooth frontend experiences** that don’t just look good, but work well too.  
+Most of the time, you’ll find me deep-diving into whitepapers or working on projects that challenge me and push my skills forward.
+
+Always open to interesting ideas, open-source collabs, or just talking tech.  
+Feel free to check out my socials below.
 
 ---
 
-### 📊 Activity
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=yranjan06&theme=github-dark)
+### Connect with Me
 
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+---
+
+<!-- Footer or Signature PNG -->
+<p align="center">
+  <img src="YOUR_SMALL_PNG_LOGO_OR_AVATAR_LINK" alt="Ranjan Logo" width="150px"/>
+</p>
