@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ranjan.
 
-<p align="left">
+<p align="left" style="font-family: 'Courier New', monospace; font-size: 14px;">
 Just another builder in the ecosystem — shipping, breaking, and learning on loop.
 </p>
 
@@ -41,7 +41,7 @@ Feel free to check out my socials below.
 
 ---
 
-<p>
+<p style="font-family: 'Courier New', monospace; font-size: 16px;">
   <img src="https://img.icons8.com/fluency/48/services.png" width="24px" style="vertical-align:middle; margin-right: 8px; border-radius: 50%;" alt="Tech Icon"/> <strong>Tech Stack</strong>
 </p>
 
@@ -52,6 +52,3 @@ Feel free to check out my socials below.
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" alt="Jupyter" style="background: #F37626; padding: 5px; border-radius: 50%;" />
 </p>
-
-
-
