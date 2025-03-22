@@ -35,7 +35,7 @@ Feel free to check out my socials below.
 </pre>
 
 ---
-### `$ ls tech-stack/`
+### `ls tech-stack ✎ᝰ.`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36px" style="margin-right: 10px;" />
