@@ -1,4 +1,4 @@
-<h1 align="left">## Hi there! 👋 I'm Ranjan.</h1>
+## Hi there! 👋 I'm Ranjan.
 
 <p align="left">
 Just another builder in the ecosystem — shipping, breaking, and learning on loop.  
