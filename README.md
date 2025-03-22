@@ -18,7 +18,7 @@ Feel free to check out my socials below.
 
   </td>
   <td width="30%" align="center">
-    <img src="https://www.pngegg.com/en/png-xqxoj" alt="Shinchan" width="200px" style="border-radius: 50%;" />
+    <img src="[https://www.pngegg.com/en/png-xqxoj](https://github.com/yranjan06/yranjan06/blob/main/png-clipart-shinnosuke-nohara-crayon-shin-chan-vertebrate-shinchan-child-food.png)" alt="Shinchan" width="200px" style="border-radius: 50%;" />
   </td>
   </tr>
 </table>
