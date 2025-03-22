@@ -43,10 +43,4 @@ Feel free to check out my socials below.
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white&labelColor=000&logoWidth=20" alt="Python" /> <img src="https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=000&logoWidth=20" alt="TensorFlow" /> <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000&logoWidth=20" alt="React" /> <img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000&logoWidth=20" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=000&logoWidth=20" alt="Jupyter" /> </p>
