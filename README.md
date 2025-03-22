@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ranjan.
 
-<p align="left" font-size: 14px;">
+<p align="left" ">
 Just another builder in the ecosystem — shipping, breaking, and learning on loop.
 </p>
 
