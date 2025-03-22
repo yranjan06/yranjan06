@@ -27,7 +27,7 @@ Feel free to check out my socials below.
 
 ### Connect with Me
 
-<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white&labelColor=000&label=&color=000&style=plastic&logoWidth=20&link=https://github.com/YOUR_GITHUB_USERNAME" alt="GitHub" style="border-radius: 50%;" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&label=&color=0A66C2&style=plastic&logoWidth=20" alt="LinkedIn"/> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&label=&color=D14836&style=plastic&logoWidth=20" alt="Email"/> </a> </p>
+<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="margin-right: 10px;" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" style="margin-right: 10px;" /> </a> <a href="mailto:your.email@example.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" style="margin-right: 10px;" /> </a> </p>
 
 ---
 
