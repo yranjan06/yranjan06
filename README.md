@@ -34,9 +34,9 @@ Feel free to check out my socials below.
 
 ```bash
 # Social links
-gh:    @YOUR_GITHUB_USERNAME
-ln:    /in/YOUR_LINKEDIN
-email: your.email@example.com
+gh:    @yranjan06 
+ln:    /in/yranjan09
+email: ykranjan09@gmail.com
 ```
 
 ---
