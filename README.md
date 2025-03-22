@@ -22,11 +22,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-### 📌 Pinned Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yranjan06&repo=mern-projects&theme=radical)](https://github.com/yranjan06/mern-projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yranjan06&repo=Toolkit&theme=radical)](https://github.com/yranjan06/Toolkit)
 
 ---
 
