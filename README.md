@@ -49,7 +49,9 @@ Feel free to check out my socials below.
   <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" style="margin-right: 12px; border-radius: 50%;" />
   <img src="https://img.icons8.com/fluency/48/tensorflow.png" alt="TensorFlow" style="margin-right: 12px; border-radius: 50%;" />
   <img src="https://img.icons8.com/fluency/48/react.png" alt="React" style="margin-right: 12px; border-radius: 50%;" />
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" style="margin-right: 12px; border-radius: 50%;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40px" alt="Jupyter" style="background: #F37626; padding: 5px; border-radius: 50%;" />
+</p>
 
 
 
