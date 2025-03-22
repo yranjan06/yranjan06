@@ -31,17 +31,13 @@ Feel free to check out my socials below.
 ---
 
 ### `$ connect --with me`
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40px" style="margin-right: 15px;" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40px" style="margin-right: 15px;" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="40px" alt="Email"/>
-  </a>
-</p>
+
+```bash
+# Social links
+gh:    @YOUR_GITHUB_USERNAME
+ln:    /in/YOUR_LINKEDIN
+email: your.email@example.com
+```
 
 ---
 
