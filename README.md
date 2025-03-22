@@ -41,14 +41,15 @@ Feel free to check out my socials below.
 
 ---
 
-### 🛠️ Tech Stack
+<p>
+  <img src="https://img.icons8.com/fluency/48/services.png" width="24px" style="vertical-align:middle; margin-right: 8px; border-radius: 50%;" alt="Tech Icon"/> <strong>Tech Stack</strong>
+</p>
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-jupyter-a-data-science-company-soft-fill-soft-fill-juicy-fish.png" alt="Jupyter" />
-</p>
+  <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" style="margin-right: 12px; border-radius: 50%;" />
+  <img src="https://img.icons8.com/fluency/48/tensorflow.png" alt="TensorFlow" style="margin-right: 12px; border-radius: 50%;" />
+  <img src="https://img.icons8.com/fluency/48/react.png" alt="React" style="margin-right: 12px; border-radius: 50%;" />
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind
+
 
 
