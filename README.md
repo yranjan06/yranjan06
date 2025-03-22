@@ -26,14 +26,13 @@ Feel free to check out my socials below.
 
 ---
 
-### `$ connect --with me`
-
-```bash
+$ connect --with me
+<pre>
 # Social links
-gh:    [`@yranjan06`](https://github.com/yranjan06)
-ln:    [`/in/yranjan09`](https://linkedin.com/in/yranjan09)
-email: [`ykranjan09@gmail.com`](mailto:ykranjan09@gmail.com)
-```
+gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
+ln:    <a href="https://linkedin.com/in/yranjan09">/in/yranjan09</a>
+email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
+</pre>
 
 ---
 
