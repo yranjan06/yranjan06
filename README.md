@@ -32,6 +32,7 @@ $ connect --with me
 gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
 ln:    <a href="https://linkedin.com/in/yranjan09">/in/yranjan09</a>
 email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
+X: <a href="https://x.com/ykranjan09">@ykranjan09</a>
 </pre>
 
 ---
