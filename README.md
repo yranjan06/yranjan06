@@ -19,24 +19,22 @@ Always open to interesting ideas, open-source collabs, or just talking tech.
 Feel free to check out my socials below.
   </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yranjan06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yranjan06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" />
       <br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranjan06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="350" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranjan06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="350" />
     </td>
   </tr>
 </table>
 
 ---
-
 ### `$ connect --with me`
 <pre>
-<img src="https://img.icons8.com/material-outlined/24/58A6FF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
-<img src="https://img.icons8.com/material-outlined/24/58A6FF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
-<img src="https://img.icons8.com/material-outlined/24/58A6FF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
 </pre>
 
 ---
-
 ### `$ ls tech-stack/`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" style="margin-right: 10px;" />
@@ -46,7 +44,6 @@ Feel free to check out my socials below.
 </p>
 
 ---
-
 ```javascript
 // TODO: Always improving this README
 ```
