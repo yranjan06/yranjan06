@@ -26,7 +26,7 @@ Feel free to check out my socials below.
 
 ---
 
-$ connect --with me
+### $ connect --with me
 <pre>
 # Social links
 gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
