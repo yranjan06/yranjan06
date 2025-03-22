@@ -29,9 +29,9 @@ Feel free to check out my socials below.
 ---
 ### `$ connect --with me`
 <pre>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06" style="color: #4DFF4D;">@yranjan06</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com" style="color: #4DFF4D;">ykranjan09@gmail.com</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09" style="color: #4DFF4D;">@ykranjan09</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
+<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
 </pre>
 
 ---
