@@ -1,16 +1,13 @@
 # Hi there! 👋 I'm Ranjan
-
 <div align="left">
   <i>Just another builder in the ecosystem — shipping, breaking, and learning on loop.</i>
 </div>
-
 <table>
   <tr>
     <td width="70%">
       
 ## `> whoami`
 I'm into **Math**, **Machine Learning**, and building **smooth frontend experiences** that don't just look good, but work well too.  
-
 ```
 while (alive) {
   deepDive(whitepapers);
@@ -18,7 +15,6 @@ while (alive) {
   improve(skills);
 }
 ```
-
 Always open to interesting ideas, open-source collabs, or just talking tech.  
 Feel free to check out my socials below.
   </td>
@@ -34,15 +30,14 @@ Feel free to check out my socials below.
 
 ```bash
 # Social links
-gh:    @yranjan06 
-ln:    /in/yranjan09
-email: ykranjan09@gmail.com
+gh:    [`@yranjan06`](https://github.com/yranjan06)
+ln:    [`/in/yranjan09`](https://linkedin.com/in/yranjan09)
+email: [`ykranjan09@gmail.com`](mailto:ykranjan09@gmail.com)
 ```
 
 ---
 
 ### `$ ls tech-stack/`
-
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="margin-right: 10px;" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="margin-right: 10px;" />
