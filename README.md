@@ -4,7 +4,7 @@
 </div>
 <table>
   <tr>
-    <td width="70%">
+    <td width="60%">
       
 ## `> whoami`
 I'm into **Math**, **Machine Learning**, and building **smooth frontend experiences** that don't just look good, but work well too.  
@@ -18,9 +18,11 @@ while (alive) {
 Always open to interesting ideas, open-source collabs, or just talking tech.  
 Feel free to check out my socials below.
   </td>
-  <td width="30%" align="center">
-    <img src="https://github.com/yranjan06/yranjan06/blob/main/png-clipart-shinnosuke-nohara-crayon-shin-chan-vertebrate-shinchan-child-food.png" alt="Shinchan" width="200px" style="border-radius: 50%;" />
-  </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yranjan06&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <br /><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranjan06&theme=radical" alt="GitHub Streak" width="350" />
+    </td>
   </tr>
 </table>
 
