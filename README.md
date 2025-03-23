@@ -6,7 +6,7 @@
   <tr>
     <td width="60%">
       
-# `> whoami`
+## `> whoami`
 I'm into **Math**, **Machine Learning**, and building **smooth frontend experiences** that don't just look good, but work well too.  
 ```
 while (alive) {
