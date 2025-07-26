@@ -46,7 +46,6 @@ Feel free to check out my socials below.
   
   <!-- Big Data & Streaming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36px" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36px" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36px" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/apache/flink/master/docs/fig/flink-header-logo.svg" width="36px" style="margin-right: 10px;" />
   
