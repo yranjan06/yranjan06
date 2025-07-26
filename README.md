@@ -1,13 +1,13 @@
 # 𓀤 Hi, I'm Ranjan
 <div align="left">
-  <i>Just another builder in the ecosystem — shipping, breaking, and learning on loop.</i>
+  <i>Data Engineer crafting scalable pipelines and cloud architectures — building the backbone that turns raw data into insights.</i>
 </div>
 <table>
   <tr>
     <td width="60%">
       
 ## `> whoami`
-I'm into **Math**, **Machine Learning**, and building **smooth frontend experiences** that don't just look good, but work well too.  
+I'm into **Data Architecture**, **Pipeline Engineering**, and building **cloud-native data systems** that don't just handle TBs of data, but do it efficiently and reliably.  
 ```
 while (alive) {
   deepDive(whitepapers);
