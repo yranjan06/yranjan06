@@ -38,35 +38,35 @@ Feel free to check out my socials below.
 ### `ls tech-stack ✎ᝰ.`
 <p align="left">
  <!-- Core Languages -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" style="margin-right: 10px;" title="Python - 90%" alt="Python" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36px" style="margin-right: 10px;" title="PostgreSQL - 85%" alt="PostgreSQL" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="36px" style="margin-right: 10px;" title="Scala - 75%" alt="Scala" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36px" style="margin-right: 10px;" title="Java - 70%" alt="Java" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36px" style="margin-right: 10px;" title="Bash - 80%" alt="Bash" />
  
  <!-- Big Data & Streaming -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36px" style="margin-right: 10px;" title="Apache Spark - 85%" alt="Apache Spark" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36px" style="margin-right: 10px;" title="Apache Kafka - 80%" alt="Apache Kafka" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36px" style="margin-right: 10px;" title="Hadoop Ecosystem - 75%" alt="Hadoop" />
  
  <!-- Databases & Warehouses -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36px" style="margin-right: 10px;" title="MySQL - 85%" alt="MySQL" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36px" style="margin-right: 10px;" title="MongoDB - 70%" alt="MongoDB" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36px" style="margin-right: 10px;" title="Redis - 75%" alt="Redis" />
  
  <!-- Cloud Platforms -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36px" style="margin-right: 10px;" title="Microsoft Azure - 80%" alt="Azure" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36px" style="margin-right: 10px;" title="Google Cloud Platform - 75%" alt="GCP" />
  
  <!-- Tools & Orchestration -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36px" style="margin-right: 10px;" title="Docker - 85%" alt="Docker" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36px" style="margin-right: 10px;" title="Kubernetes - 70%" alt="Kubernetes" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36px" style="margin-right: 10px;" title="Terraform - 75%" alt="Terraform" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36px" style="margin-right: 10px;" title="Git - 90%" alt="Git" />
  
  <!-- Data Processing & Analytics -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36px" style="margin-right: 10px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36px" style="margin-right: 10px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36px" style="margin-right: 10px;" title="Pandas - 90%" alt="Pandas" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36px" style="margin-right: 10px;" title="NumPy - 85%" alt="NumPy" />
 </p>
 
 ---
