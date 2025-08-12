@@ -1,7 +1,7 @@
-# 𓀤 Hi, I'm 
-<p align="left" style="background-color:#0d1117; color:#FFFFFF; display:inline-block; padding:8px 12px; border:2px solid #58A6FF; border-radius:6px; font-family: 'Fira Code', monospace;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ranjan+Yadav;Data+Engineer;Math+Enthusiast;MLOps+Engineer;Pipeline+Architect;Cloud+Native+Developer&font=Fira%20Code&weight=700&center=false&width=440&color=58A6FF&vCenter=true&size=22&pause=1000&repeat=true" />
-</p>
+# 𓀤 Hi, I'm <span style="display: inline-block; background-color: #0d1117; border: 2px solid #FFFFFF; border-radius: 6px; padding: 4px 8px;">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Ranjan+Yadav;Data+Engineer;Math+Enthusiast;MLOps+Engineer;Pipeline+Architect;Cloud+Native+Developer&font=Fira%20Code&weight=700&center=false&width=440&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000&repeat=true" style="vertical-align: middle;" />
+</span>
+
 
 
 
