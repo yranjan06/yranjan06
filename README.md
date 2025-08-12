@@ -1,8 +1,52 @@
-<div style="display: inline-flex; align-items: center; border: 2px solid white; padding: 5px 10px; border-radius: 6px; white-space: nowrap;">
-  <span style="color: white; font-weight: 700; font-size: 28px; line-height: 1;">𓀤 Hi, I'm&nbsp;</span>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ranjan+Yadav;Data+Engineer;Math+Enthusiast;MLOps+Engineer;Pipeline+Architect;Cloud+Native+Developer&font=Fira%20Code&weight=700&center=false&width=440&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000&repeat=true" style="vertical-align: middle;" />
-</div>
 
+
+<!-- Terminal-style intro with cycling roles -->
+<p align="left">
+  <img src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 60' width='900' height='60'>
+  <style>
+    .mono { font-family: Fira Code, DejaVu Sans Mono, monospace; font-weight:700; fill: #FFFFFF; }
+  </style>
+  <rect x='2' y='2' width='896' height='56' rx='6' fill='none' stroke='#FFFFFF' stroke-width='2'/>
+  <text class='mono' x='18' y='36' font-size='28'>𓀤 Hi, I'm&nbsp;</text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    Ranjan Yadav
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.000000;0.020000;0.146667;0.166667;1.000000' repeatCount='indefinite'/>
+  </text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    Data Engineer
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.166667;0.186667;0.313333;0.333333;1.000000' repeatCount='indefinite'/>
+  </text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    Math Enthusiast
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.333333;0.353333;0.480000;0.500000;1.000000' repeatCount='indefinite'/>
+  </text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    MLOps Engineer
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.500000;0.520000;0.646667;0.666667;1.000000' repeatCount='indefinite'/>
+  </text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    Pipeline Architect
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.666667;0.686667;0.813333;0.833333;1.000000' repeatCount='indefinite'/>
+  </text>
+
+  <text class='mono' x='220' y='36' font-size='28' opacity='0'>
+    Cloud Native Developer
+    <animate attributeName='opacity' dur='12s' values='0;0;1;1;0;0'
+      keyTimes='0;0.833333;0.853333;0.980000;1.000000;1.000000' repeatCount='indefinite'/>
+  </text>
+</svg>" />
+</p>
 
 
 
