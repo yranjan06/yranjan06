@@ -1,5 +1,5 @@
 <div style="display: inline-flex; align-items: center; border: 2px solid white; padding: 5px 10px; border-radius: 6px; white-space: nowrap;">
-  <span style="color: white; font-weight: 700; font-size: 22px;">𓀤 Hi, I'm&nbsp;</span>
+  <span style="color: white; font-weight: 700; font-size: 28px; line-height: 1;">𓀤 Hi, I'm&nbsp;</span>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Ranjan+Yadav;Data+Engineer;Math+Enthusiast;MLOps+Engineer;Pipeline+Architect;Cloud+Native+Developer&font=Fira%20Code&weight=700&center=false&width=440&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000&repeat=true" style="vertical-align: middle;" />
 </div>
 
