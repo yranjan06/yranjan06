@@ -1,4 +1,4 @@
-# 𓀤 **Hi, I'm** <img src="https://readme-typing-svg.herokuapp.com?lines=%3CRanjan%20Yadav%3E;%3CData%20Engineer%3E;%3CMath%20Enthusiast%3E;%3CMLOps%20Engineer%3E;%3CPipeline%20Architect%3E;%3CCloud%20Native%20Developer%3E&font=Fira%20Code&center=false&width=500&height=45&color=FFFFFF&vCenter=true&size=24&pause=1000&repeat=true" style="vertical-align: -4px; margin-left: 6px;" />
+# 𓀤 **Hi, I'm** <img src="https://readme-typing-svg.herokuapp.com?lines=%3C%20Ranjan%20Yadav%20%3E;%3C%20Data%20Engineer%20%3E;%3C%20Math%20Enthusiast%20%3E;%3C%20MLOps%20Engineer%20%3E;%3C%20Pipeline%20Architect%20%3E;%3C%20Cloud%20Native%20Developer%20%3E&font=Fira%20Code&weight=700&center=false&width=500&height=45&color=FFFFFF&vCenter=true&size=24&pause=1000&repeat=true" style="vertical-align: -4px; margin-left: 6px;" />
 
 
 <div align="left">
