@@ -1,7 +1,4 @@
 # 𓀤 **Hi, I'm** <img src="https://readme-typing-svg.herokuapp.com?lines=%3C%20Ranjan%20Yadav%20%3E;%3C%20Into%20Data%20Engineering%20%3E;%3C%20Into%20Math%20Enthusiasm%20%3E;%3C%20Into%20MLOps%20Engineering%20%3E;%3C%20Into%20Pipeline%20Architecture%20%3E;%3C%20Into%20Cloud%20Native%20Development%20%3E&font=Fira%20Code&weight=700&center=false&width=500&height=45&color=FFFFFF&vCenter=true&size=24&pause=1000&repeat=true" style="vertical-align: -4px; margin-left: 6px;">
-/>
-
-
 
 <div align="left">
   <i>Data Engineer crafting scalable pipelines and cloud architectures — building the backbone that turns raw data into insights.</i>
