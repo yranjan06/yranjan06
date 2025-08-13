@@ -29,13 +29,38 @@ Feel free to check out my socials below.
 
 ---
 ### `$ connect --with me`
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 <pre>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
 <img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
 </pre>
 
+<!-- Sleeping Cat -->
+<svg viewBox="0 0 450 120" xmlns="http://www.w3.org/2000/svg" width="220">
+<style>
+    text { font-family: monospace; white-space: pre; }
+    .zzz { animation: float 2s infinite ease-in-out; }
+    .belly { animation: breathe 2s infinite ease-in-out; }
+    @keyframes float {
+        0%   { transform: translateY(0px); }
+        50%  { transform: translateY(-5px); }
+        100% { transform: translateY(0px); }
+    }
+    @keyframes breathe {
+        0%,100% { transform: scale(1,1); }
+        50%     { transform: scale(1,1.05); }
+    }
+</style>
+<text x="10" y="20" class="zzz">ZZZzz</text>
+<text x="10" y="50">      |\      _,,,---,,_</text>
+<text x="10" y="70">     /,`.-'`'    -.  ;-;;,_</text>
+<text x="10" y="90" class="belly">    |,4-  ) )-,_. ,\ (  `'-'</text>
+<text x="10" y="110">    '---''(_/--'  `-'\_)</text>
+</svg>
+</div>
 ---
+
 ### `ls tech-stack ✎ᝰ.`
 <p align="left">
  <!-- Core Languages -->
