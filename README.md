@@ -1,80 +1,17 @@
-# 𓀤 **Hi, I'm** <img src="https://readme-typing-svg.herokuapp.com?lines=%3C%20Ranjan%20Yadav%20%3E;%3C%20Into%20Data%20Engineering%20%3E;%3C%20Into%20Mathematics%20%3E;%3C%20Into%20MLOps%20Engineering%20%3E;%3C%20Into%20Pipeline%20Architecture%20%3E;%3C%20Into%20Cloud%20Native%20Development%20%3E&font=Fira%20Code&weight=700&center=false&width=500&height=45&color=FFFFFF&vCenter=true&size=24&pause=1000&repeat=true" style="vertical-align: -4px; margin-left: 6px;">
+<div style="background-color:#0B0B0B; color:#E0E0E0; padding:20px; border-radius:10px; font-family:'Roboto Mono', monospace; line-height:1.5; background-image:linear-gradient(to bottom, #121212 1px, transparent 1px); background-size:100% 10px;">
 
-<div align="left">
-  <i>Data Engineer crafting scalable pipelines and cloud architectures — building the backbone that turns raw data into insights.</i>
-</div>
-<table>
-  <tr>
-    <td width="60%">
-      
-## `> whoami`
-I'm into **Data Architecture**, **Pipeline Engineering**, and building **cloud-native data systems** that don't just handle TBs of data, but do it efficiently and reliably.  
-```
-while (alive) {
-  deepDive(whitepapers);
-  build(challengingProjects);
-  improve(skills);
-}
-```
-Always open to interesting ideas, open-source collabs, or just talking tech.  
-Feel free to check out my socials below.
-  </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yranjan06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" />
-      <br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranjan06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="350" />
-    </td>
-  </tr>
-</table>
-
----
-### `$ connect --with me`
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-<pre>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/github.png" width="15px" style="vertical-align: middle;"> gh:    <a href="https://github.com/yranjan06">@yranjan06</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/mail.png" width="15px" style="vertical-align: middle;"> email: <a href="mailto:ykranjan09@gmail.com">ykranjan09@gmail.com</a>
-<img src="https://img.icons8.com/material-outlined/24/FFFFFF/twitter.png" width="15px" style="vertical-align: middle;"> X:     <a href="https://x.com/ykranjan09">@ykranjan09</a>
-</pre>
-
-
-
----
-
-### `ls tech-stack ✎ᝰ.`
-<p align="left">
- <!-- Core Languages -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" style="margin-right: 10px;" title="Python - 90%" alt="Python" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36px" style="margin-right: 10px;" title="PostgreSQL - 85%" alt="PostgreSQL" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="36px" style="margin-right: 10px;" title="Scala - 75%" alt="Scala" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36px" style="margin-right: 10px;" title="Java - 70%" alt="Java" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36px" style="margin-right: 10px;" title="Bash - 80%" alt="Bash" />
- 
- <!-- Big Data & Streaming -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="36px" style="margin-right: 10px;" title="Apache Spark - 85%" alt="Apache Spark" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="36px" style="margin-right: 10px;" title="Apache Kafka - 80%" alt="Apache Kafka" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="36px" style="margin-right: 10px;" title="Hadoop Ecosystem - 75%" alt="Hadoop" />
- 
- <!-- Databases & Warehouses -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36px" style="margin-right: 10px;" title="MySQL - 85%" alt="MySQL" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36px" style="margin-right: 10px;" title="MongoDB - 70%" alt="MongoDB" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36px" style="margin-right: 10px;" title="Redis - 75%" alt="Redis" />
- 
- <!-- Cloud Platforms -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36px" style="margin-right: 10px;" title="Microsoft Azure - 80%" alt="Azure" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36px" style="margin-right: 10px;" title="Google Cloud Platform - 75%" alt="GCP" />
- 
- <!-- Tools & Orchestration -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36px" style="margin-right: 10px;" title="Docker - 85%" alt="Docker" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36px" style="margin-right: 10px;" title="Kubernetes - 70%" alt="Kubernetes" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36px" style="margin-right: 10px;" title="Terraform - 75%" alt="Terraform" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36px" style="margin-right: 10px;" title="Git - 90%" alt="Git" />
- 
- <!-- Data Processing & Analytics -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36px" style="margin-right: 10px;" title="Pandas - 90%" alt="Pandas" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36px" style="margin-right: 10px;" title="NumPy - 85%" alt="NumPy" />
+<p style="text-shadow:0 0 10px rgba(224, 224, 224, 0.8), 0 0 20px rgba(224, 224, 224, 0.6), 0 0 30px rgba(224, 224, 224, 0.4);">
+<span style="font-weight:700;">Hi, my name is Ranjan Yadav!</span> 👋
 </p>
 
----
-```javascript
-// TODO: Always improving this README
-```
+<p style="text-shadow:0 0 10px rgba(224, 224, 224, 0.8), 0 0 20px rgba(224, 224, 224, 0.6), 0 0 30px rgba(224, 224, 224, 0.4);">
+I'm a <span style="color:#FF80A0; text-shadow:0 0 10px rgba(255, 128, 160, 0.8), 0 0 20px rgba(255, 128, 160, 0.6), 0 0 30px rgba(255, 128, 160, 0.4);"><b>Data Engineer</b></span>, building <span style="color:#A0E0FF; text-shadow:0 0 10px rgba(160, 224, 255, 0.8), 0 0 20px rgba(160, 224, 255, 0.6), 0 0 30px rgba(160, 224, 255, 0.4);"><b>scalable pipelines</b></span> and <span style="color:#E0E0A0; text-shadow:0 0 10px rgba(224, 224, 160, 0.8), 0 0 20px rgba(224, 224, 160, 0.6), 0 0 30px rgba(224, 224, 160, 0.4);"><b>cloud-native architectures</b></span> that turn complex data into <span style="color:#A0F080; text-shadow:0 0 10px rgba(160, 240, 128, 0.8), 0 0 20px rgba(160, 240, 128, 0.6), 0 0 30px rgba(160, 240, 128, 0.4);"><b>meaningful insights</b></span>.
+I work with <span style="color:#80FFD0; text-shadow:0 0 10px rgba(128, 255, 208, 0.8), 0 0 20px rgba(128, 255, 208, 0.6), 0 0 30px rgba(128, 255, 208, 0.4);"><b>Python</b></span>, <span style="color:#FFD180; text-shadow:0 0 10px rgba(255, 209, 128, 0.8), 0 0 20px rgba(255, 209, 128, 0.6), 0 0 30px rgba(255, 209, 128, 0.4);"><b>Spark</b></span>, <span style="color:#FFB0F0; text-shadow:0 0 10px rgba(255, 176, 240, 0.8), 0 0 20px rgba(255, 176, 240, 0.6), 0 0 30px rgba(255, 176, 240, 0.4);"><b>Kafka</b></span>, and cloud platforms like <span style="color:#A0E0FF; text-shadow:0 0 10px rgba(160, 224, 255, 0.8), 0 0 20px rgba(160, 224, 255, 0.6), 0 0 30px rgba(160, 224, 255, 0.4);"><b>Azure</b></span> and <span style="color:#80FFD0; text-shadow:0 0 10px rgba(128, 255, 208, 0.8), 0 0 20px rgba(128, 255, 208, 0.6), 0 0 30px rgba(128, 255, 208, 0.4);"><b>GCP</b></span> to design systems that handle large-scale data processing efficiently.
+</p>
+
+<p style="text-shadow:0 0 10px rgba(224, 224, 224, 0.8), 0 0 20px rgba(224, 224, 224, 0.6), 0 0 30px rgba(224, 224, 224, 0.4);">
+Beyond core engineering, I'm deeply into <span style="color:#FFD180; text-shadow:0 0 10px rgba(255, 209, 128, 0.8), 0 0 20px rgba(255, 209, 128, 0.6), 0 0 30px rgba(255, 209, 128, 0.4);"><b>Mathematics</b></span>, <span style="color:#FF80A0; text-shadow:0 0 10px rgba(255, 128, 160, 0.8), 0 0 20px rgba(255, 128, 160, 0.6), 0 0 30px rgba(255, 128, 160, 0.4);"><b>MLOps</b></span>, <span style="color:#A0E0FF; text-shadow:0 0 10px rgba(160, 224, 255, 0.8), 0 0 20px rgba(160, 224, 255, 0.6), 0 0 30px rgba(160, 224, 255, 0.4);"><b>deep learning</b></span>, and <span style="color:#A0F080; text-shadow:0 0 10px rgba(160, 240, 128, 0.8), 0 0 20px rgba(160, 240, 128, 0.6), 0 0 30px rgba(160, 240, 128, 0.4);"><b>optimization problems</b></span> — always experimenting with new technologies, contributing to open source, and collaborating on projects that push boundaries of what’s possible with data.
+</p>
+
+</div>
+
