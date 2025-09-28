@@ -1,3 +1,15 @@
-![Hi, my name is Ranjan Yadav!](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=fff&center=false&vCenter=true&width=500&lines=Hi%2C+my+name+is+Ranjan+Yadav!+👋)
-
 `I'm a` ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-FF80A0?style=flat&logoColor=white) `building` ![Scalable Pipelines](https://img.shields.io/badge/Scalable%20Pipelines-A0E0FF?style=flat&logoColor=white) `and` ![Cloud-Native Architectures](https://img.shields.io/badge/Cloud--Native%20Architectures-E0E0A0?style=flat&logoColor=black) `that turn complex data into` ![Meaningful Insights](https://img.shields.io/badge/Meaningful%20Insights-A0F080?style=flat&logoColor=black). `I work with` ![Python](https://img.shields.io/badge/Python-80FFD0?style=flat&logo=python&logoColor=black), ![Spark](https://img.shields.io/badge/Spark-FFD180?style=flat&logo=apachespark&logoColor=black), ![Kafka](https://img.shields.io/badge/Kafka-FFB0F0?style=flat&logo=apachekafka&logoColor=black), `and cloud platforms like` ![Azure](https://img.shields.io/badge/Azure-A0E0FF?style=flat&logo=microsoftazure&logoColor=black) `and` ![GCP](https://img.shields.io/badge/GCP-80FFD0?style=flat&logo=googlecloud&logoColor=black) `to design systems that handle large-scale data processing efficiently`. `Beyond core engineering, I'm deeply into` ![Mathematics](https://img.shields.io/badge/Mathematics-FFD180?style=flat&logoColor=black), ![MLOps](https://img.shields.io/badge/MLOps-FF80A0?style=flat&logoColor=white), ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-A0E0FF?style=flat&logoColor=black), `and` ![Optimization Problems](https://img.shields.io/badge/Optimization%20Problems-A0F080?style=flat&logoColor=black) `— always experimenting with new technologies, contributing to open source, and collaborating on projects that push boundaries of what's possible with data`.
+<table>
+<tr>
+<td width="80">
+  <a href="https://yranjan06.github.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/logo-outline.svg" width="70" height="70" alt="Ranjan's Logo">
+  </a>
+</td>
+<td>
+  <a href="https://yranjan06.github.io/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=fff&center=false&vCenter=true&width=500&lines=Hi%2C+my+name+is+Ranjan+Yadav!+👋" alt="Typing SVG">
+  </a>
+</td>
+</tr>
+</table>
