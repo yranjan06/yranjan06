@@ -21,3 +21,43 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<table>
+<tr>
+<td>
+  <img src="https://img.shields.io/badge/✍️_Latest_from_My_Blog-A0F080?style=for-the-badge&logoColor=black" alt="Latest from My Blog">
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="780">
+
+<br>
+
+<a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
+  <img src="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/Blog/ghar-to-datacenter.webp" alt="Azure Virtual Machine" width="780">
+</a>
+
+<table width="780">
+<tr>
+<td width="400">
+  <h3>
+    <a href="https://yranjan06.github.io/blog#azure-virtual-machine">
+      Azure Virtual Machine
+    </a>
+  </h3>
+</td>
+<td width="200" align="right">
+  <p><i>📅 December 26, 2024</i></p>
+</td>
+<td width="180" align="right">
+  <a href="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/BlogAudio/Azure01/Azure.m4a" download>
+    <img src="https://img.shields.io/badge/🎧_Audio-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
+  </a>
+</td>
+</tr>
+</table>
+
+---
