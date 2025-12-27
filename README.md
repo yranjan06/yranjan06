@@ -53,8 +53,8 @@
   <p><i>📅 December 26, 2024</i></p>
 </td>
 <td width="180" align="right">
-  <a href="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/BlogAudio/Azure01/Azure.m4a" download>
-    <img src="https://img.shields.io/badge/🎧_Audio-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
+  <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
   </a>
 </td>
 </tr>
