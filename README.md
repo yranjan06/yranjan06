@@ -27,12 +27,11 @@
 <table>
 <tr>
 <td>
-  <img src="https://img.shields.io/badge/✍️_Latest_from_My_Blog-A0F080?style=for-the-badge&logoColor=black" alt="Latest from My Blog">
+  <img src="https://img.shields.io/badge/✍️_Latest_from_My_Blog-B53131?style=for-the-badge&logoColor=black" alt="Latest from My Blog">
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="780">
 
 <br>
 
