@@ -45,10 +45,18 @@
       The Unsexy Secret to Building LLM Apps That Don't Suck
     </a>
   </h3>
-  <p><i>📅 December 31, 2024</i></p>
-  <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
-  </a>
+  <table width="380">
+    <tr>
+      <td width="190">
+        <img src="https://img.shields.io/badge/📅_December_31,_2024-FFD180?style=for-the-badge&logoColor=black" alt="Date">
+      </td>
+      <td width="190" align="right">
+        <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
+          <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
+        </a>
+      </td>
+    </tr>
+  </table>
 </td>
 <td width="390" valign="top">
   <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
@@ -59,10 +67,18 @@
       Azure Virtual Machine
     </a>
   </h3>
-  <p><i>📅 December 26, 2024</i></p>
-  <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
-    <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
-  </a>
+  <table width="380">
+    <tr>
+      <td width="190">
+        <img src="https://img.shields.io/badge/📅_December_26,_2024-FFD180?style=for-the-badge&logoColor=black" alt="Date">
+      </td>
+      <td width="190" align="right">
+        <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
+          <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
+        </a>
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 </table>
