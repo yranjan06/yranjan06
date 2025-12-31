@@ -1,5 +1,4 @@
 `I'm a` ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-FF80A0?style=flat&logoColor=white) `building` ![Scalable Pipelines](https://img.shields.io/badge/Scalable%20Pipelines-A0E0FF?style=flat&logoColor=white) `and` ![Cloud-Native Architectures](https://img.shields.io/badge/Cloud--Native%20Architectures-E0E0A0?style=flat&logoColor=black) `that turn complex data into` ![Meaningful Insights](https://img.shields.io/badge/Meaningful%20Insights-A0F080?style=flat&logoColor=black). `I work with` ![Python](https://img.shields.io/badge/Python-80FFD0?style=flat&logo=python&logoColor=black), ![Spark](https://img.shields.io/badge/Spark-FFD180?style=flat&logo=apachespark&logoColor=black), ![Kafka](https://img.shields.io/badge/Kafka-FFB0F0?style=flat&logo=apachekafka&logoColor=black), `and cloud platforms like` ![Azure](https://img.shields.io/badge/Azure-A0E0FF?style=flat&logo=microsoftazure&logoColor=black) `and` ![GCP](https://img.shields.io/badge/GCP-80FFD0?style=flat&logo=googlecloud&logoColor=black) `to design systems that handle large-scale data processing efficiently`. `Beyond core engineering, I'm deeply into` ![Mathematics](https://img.shields.io/badge/Mathematics-FFD180?style=flat&logoColor=black), ![MLOps](https://img.shields.io/badge/MLOps-FF80A0?style=flat&logoColor=white), ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-A0E0FF?style=flat&logoColor=black), `and` ![Optimization Problems](https://img.shields.io/badge/Optimization%20Problems-A0F080?style=flat&logoColor=black) `— always experimenting with new technologies, contributing to open source, and collaborating on projects that push boundaries of what's possible with data`.
-
 <table>
 <tr>
 <td width="80">
@@ -21,9 +20,7 @@
 </td>
 </tr>
 </table>
-
 <br>
-
 <table>
 <tr>
 <td>
@@ -31,14 +28,35 @@
 </td>
 </tr>
 </table>
-
+<br>
+<a href="https://yranjan06.github.io/blog#llm-apps" target="_blank">
+  <img src="https://yranjan06.github.io/images/Blog/LLM/Your_paragraph_text-removebg-preview.webp" alt="The Unsexy Secret to Building LLM Apps That Don't Suck" width="780">
+</a>
+<table width="780">
+<tr>
+<td width="400">
+  <h3>
+    <a href="https://yranjan06.github.io/blog#llm-apps">
+      The Unsexy Secret to Building LLM Apps That Don't Suck
+    </a>
+  </h3>
+</td>
+<td width="200" align="right">
+  <p><i>📅 December 31, 2024</i></p>
+</td>
+<td width="180" align="right">
+  <a href="https://yranjan06.github.io/blog#llm-apps" target="_blank">
+    <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
+  </a>
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
   <img src="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/Blog/ghar-to-datacenter.webp" alt="Azure Virtual Machine" width="780">
 </a>
-
 <table width="780">
 <tr>
 <td width="400">
@@ -58,5 +76,4 @@
 </td>
 </tr>
 </table>
-
 ---
