@@ -29,14 +29,14 @@
 </tr>
 </table>
 <br>
-<a href="https://yranjan06.github.io/blog#llm-apps" target="_blank">
+<a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
   <img src="https://yranjan06.github.io/images/Blog/LLM/Your_paragraph_text-removebg-preview.webp" alt="The Unsexy Secret to Building LLM Apps That Don't Suck" width="780">
 </a>
 <table width="780">
 <tr>
 <td width="400">
   <h3>
-    <a href="https://yranjan06.github.io/blog#llm-apps">
+    <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps">
       The Unsexy Secret to Building LLM Apps That Don't Suck
     </a>
   </h3>
@@ -45,7 +45,7 @@
   <p><i>📅 December 31, 2024</i></p>
 </td>
 <td width="180" align="right">
-  <a href="https://yranjan06.github.io/blog#llm-apps" target="_blank">
+  <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
     <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
   </a>
 </td>
