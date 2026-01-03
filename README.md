@@ -1,86 +1,13 @@
-`I'm a` ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-FF80A0?style=flat&logoColor=white) `building` ![Scalable Pipelines](https://img.shields.io/badge/Scalable%20Pipelines-A0E0FF?style=flat&logoColor=white) `and` ![Cloud-Native Architectures](https://img.shields.io/badge/Cloud--Native%20Architectures-E0E0A0?style=flat&logoColor=black) `that turn complex data into` ![Meaningful Insights](https://img.shields.io/badge/Meaningful%20Insights-A0F080?style=flat&logoColor=black). `I work with` ![Python](https://img.shields.io/badge/Python-80FFD0?style=flat&logo=python&logoColor=black), ![Spark](https://img.shields.io/badge/Spark-FFD180?style=flat&logo=apachespark&logoColor=black), ![Kafka](https://img.shields.io/badge/Kafka-FFB0F0?style=flat&logo=apachekafka&logoColor=black), `and cloud platforms like` ![Azure](https://img.shields.io/badge/Azure-A0E0FF?style=flat&logo=microsoftazure&logoColor=black) `and` ![GCP](https://img.shields.io/badge/GCP-80FFD0?style=flat&logo=googlecloud&logoColor=black) `to design systems that handle large-scale data processing efficiently`. `Beyond core engineering, I'm deeply into` ![Mathematics](https://img.shields.io/badge/Mathematics-FFD180?style=flat&logoColor=black), ![MLOps](https://img.shields.io/badge/MLOps-FF80A0?style=flat&logoColor=white), ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-A0E0FF?style=flat&logoColor=black), `and` ![Optimization Problems](https://img.shields.io/badge/Optimization%20Problems-A0F080?style=flat&logoColor=black) `— always experimenting with new technologies, contributing to open source, and collaborating on projects that push boundaries of what's possible with data`.
+Hi, I'm Ranjan Yadav. I'm a data engineer and ML enthusiast. I build scalable data pipelines and cloud-native systems.
 
-<table>
-<tr>
-<td width="80">
-  <a href="https://yranjan06.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/logo-outline.svg" width="70" height="70" alt="Ranjan's Logo">
-  </a>
-</td>
-<td width="500">
-  <a href="https://yranjan06.github.io/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=fff&center=false&vCenter=true&width=500&lines=Hi%2C+my+name+is+Ranjan+Yadav!+👋" alt="Typing SVG">
-  </a>
-</td>
-<td align="right" width="200">
-  <div align="center">
-    <img src="https://img.shields.io/github/stars/yranjan06?style=flat&color=FFD180&labelColor=FF80A0&logo=github&logoColor=white&label=Total%20Stars" alt="GitHub Stars">
-    <br><br>
-    <img src="https://img.shields.io/github/commit-activity/y/yranjan06/yranjan06?style=flat&color=A0F080&labelColor=A0E0FF&logo=git&logoColor=black&label=Commits%20This%20Year" alt="GitHub Commits">
-  </div>
-</td>
-</tr>
-</table>
+|![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yranjan06&theme=dracula)|![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yranjan06&theme=dracula)|
+|-----|------|
 
-<br>
+_Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)_
 
-<table>
-<tr>
-<td>
-  <img src="https://img.shields.io/badge/✍️_Latest_from_My_Blog-B53131?style=for-the-badge&logoColor=black" alt="Latest from My Blog">
-</td>
-</tr>
-</table>
+# Recent Posts
 
-<br>
-
-<table>
-<tr>
-<td width="390" valign="top">
-  <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
-    <img src="https://yranjan06.github.io/images/Blog/LLM/Your_paragraph_text-removebg-preview.webp" alt="The Unsexy Secret to Building LLM Apps That Don't Suck" width="380" height="250">
-  </a>
-  <h3>
-    <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps">
-      The Unsexy Secret to Building LLM Apps That Don't Suck
-    </a>
-  </h3>
-  <table width="380">
-    <tr>
-      <td width="190">
-        <img src="https://img.shields.io/badge/📅_December_31,_2024-FFD180?style=for-the-badge&logoColor=black" alt="Date">
-      </td>
-      <td width="190" align="right">
-        <a href="https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps" target="_blank">
-          <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
-        </a>
-      </td>
-    </tr>
-  </table>
-</td>
-<td width="390" valign="top">
-  <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
-    <img src="https://raw.githubusercontent.com/yranjan06/yranjan06.github.io/main/src/assets/images/Blog/ghar-to-datacenter.webp" alt="Azure Virtual Machine" width="380" height="250">
-  </a>
-  <h3>
-    <a href="https://yranjan06.github.io/blog#azure-virtual-machine">
-      Azure Virtual Machine
-    </a>
-  </h3>
-  <table width="380">
-    <tr>
-      <td width="190">
-        <img src="https://img.shields.io/badge/📅_December_26,_2024-FFD180?style=for-the-badge&logoColor=black" alt="Date">
-      </td>
-      <td width="190" align="right">
-        <a href="https://yranjan06.github.io/blog#azure-virtual-machine" target="_blank">
-          <img src="https://img.shields.io/badge/🎧_Listen_on_Blog-1DB954?style=for-the-badge&logoColor=white" alt="Audio">
-        </a>
-      </td>
-    </tr>
-  </table>
-</td>
-</tr>
-</table>
-
----
+1. **[The Unsexy Secret to Building LLM Apps That Don't Suck](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)** 
+   - Exploring the fundamentals of building production-ready LLM applications that actually work in the real world.
+2. **[Azure Virtual Machine: From Home to Datacenter](https://yranjan06.github.io/blog#azure-virtual-machine)**
+   - A practical guide to setting up and managing Azure VMs for data engineering workloads.
