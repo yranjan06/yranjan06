@@ -1,10 +1,5 @@
 Hi, I'm Ranjan Yadav. I'm a Data Engineer and ML enthusiast. I build scalable data pipelines and cloud-native systems.
 
-|![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yranjan06&theme=dracula)|![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yranjan06&theme=dracula)|
-|-----|------|
-
-_Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)_
-
 # Recent Posts
 
 1. **[The Unsexy Secret to Building LLM Apps That Don't Suck](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)** 
