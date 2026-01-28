@@ -2,7 +2,6 @@ Hi, I'm Ranjan Yadav. I'm a Data Engineer and ML enthusiast. I build scalable da
 
 Recent Posts 
 
-1. **[The Unsexy Secret](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)**  - Exploring the fundamentals of building production-ready LLM applications that actually work in the real world.
+1. **[The Unsexy Secret](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)**  - The 50 Example Method
    
-2. **[Azure Virtual Machine](https://yranjan06.github.io/blog#azure-virtual-machine)**  - A practical guide to setting up and managing Azure VMs for data engineering workloads.
-  
+2. **[Azure Virtual Machine](https://yranjan06.github.io/blog#azure-virtual-machine)**  - A practical guide to setting up Azure VMs
