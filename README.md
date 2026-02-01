@@ -4,5 +4,5 @@ Recent Posts
 
 - 🚦 **[The Unsexy Secret](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)**  - The 50 Example Method.
    
-- 👉 **[Azure Virtual Machine](https://yranjan06.github.io/blog#azure-virtual-machine)**  - A practical guide to setting up Azure VMs.
+
 
