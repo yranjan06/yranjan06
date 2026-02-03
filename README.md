@@ -5,4 +5,6 @@ Recent Posts
 - 🚦 **[The Unsexy Secret](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)**  - The 50 Example Method.
    
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yranjan06&layout=compact&theme=dark&hide_border=true&langs_count=6)
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yranjan06&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide_title=true&card_width=400)
