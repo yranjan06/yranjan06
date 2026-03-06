@@ -1,4 +1,4 @@
-Hi, I'm Ranjan Yadav. I'm a Data Engineer and ML enthusiast. I build scalable data pipelines and cloud-native systems.
+Ranjan here. data engineer. i build pipelines cloud systems and occasionally ml stuff. currently enjoying vibecoding shipping ideas and figuring things out in public.
 
 Recent Posts 
 
