@@ -1,4 +1,4 @@
-Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasionally work on ML. Currently enjoying vibecoding, shipping ideas, and figuring things out in public.
+Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasionally work on ML. Currently enjoying vibecoding.
 
 Recent Posts 
 
