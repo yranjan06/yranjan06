@@ -10,4 +10,4 @@ Experimental Projects
 
 -  👻 **[WEBGhosting-MCP](https://github.com/yranjan06/WEBGhosting-MCP)** - AI agents can finally browse the web. WEBGhosting gives Claude Code and Cursor a real browser session with human-like behavior, bot detection bypass, and voice control built in.
   
-- Weekly Releases
+- Weekly Releases ...
