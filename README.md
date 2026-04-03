@@ -6,7 +6,8 @@ Recent Posts
 - 🚦 **[Token Context Bottleneck](https://www.linkedin.com/pulse/architecting-future-agentic-tool-use-overcoming-token-ranjan-yadav-2idzc/)**  - Architecting the Future of Agentic Tool Use.
 - 🚦 **[Context Window Problem](https://www.linkedin.com/pulse/how-we-solved-context-window-problem-large-scale-web-scraping-yadav-a3pmc/?trackingId=wa2x9MlWKeoxEbgh8Ha7Rg%3D%3D)**  - How We Solved.
 
-Experimental Projects - Weekly Releases
+Experimental Projects 
 
-
-   
+-  👻 **[WEBGhosting-MCP](https://github.com/yranjan06/WEBGhosting-MCP)** - A Go-based MCP server wrapping Playwright that gives AI agents a genuine window to the live web. Features a 22-script stealth anti-fingerprint engine, 34 browser tools, and a three-tier execution model for voice-controlled browsing - built so Claude Code and Cursor can step out of the dev environment and into the real internet like a human would.
+  
+- Weekly Releases
