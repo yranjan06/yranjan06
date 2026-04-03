@@ -8,6 +8,6 @@ Recent Posts
 
 Experimental Projects 
 
--  👻 **[WEBGhosting-MCP](https://github.com/yranjan06/WEBGhosting-MCP)** - A Go-based MCP server wrapping Playwright that gives AI agents a genuine window to the live web. Features a 22-script stealth anti-fingerprint engine, 34 browser tools, and a three-tier execution model for voice-controlled browsing - built so Claude Code and Cursor can step out of the dev environment and into the real internet like a human would.
+-  👻 **[WEBGhosting-MCP](https://github.com/yranjan06/WEBGhosting-MCP)** - AI agents can finally browse the web. WEBGhosting gives Claude Code and Cursor a real browser session with human-like behavior, bot detection bypass, and voice control built in.
   
 - Weekly Releases
