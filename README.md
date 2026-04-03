@@ -8,6 +8,6 @@ Recent Posts
 
 Experimental Projects 
 
--  👻 **[WEBGhosting-MCP](https://github.com/yranjan06/WEBGhosting-MCP)** - An agentic browser engine with 22 stealth(anti bot) scripts and 34 tools that lets agents browse the web like a human.
+<table border="0"><tr><td>👻 <b><a href="https://github.com/yranjan06/WEBGhosting-MCP">WEBGhosting-MCP</a></b></td><td>An agentic browser engine with 22 stealth (anti-bot) scripts and 34 tools that lets agents browse the web like a human.</td></tr></table>
   
 - Weekly Releases ...
