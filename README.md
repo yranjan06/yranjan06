@@ -2,7 +2,7 @@ Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasional
 
 Recent Posts 
 
-- 🚦 **[How We Classified Music Genres From Noisy Audio](https://medium.com/@yranjan06/)**  — HuBERT, domain shift, and the data trick that hit 94.89% F1.
+- 🚦 **[How We Classified Music Genres From Noisy Audio](https://medium.com/@ranjanydv.code/how-we-classified-music-genres-from-noisy-audio-mashups-using-hubert-and-a-custom-pytorch-pipeline-04824f8d6de1)**  — HuBERT, domain shift, and the data trick that hit 94.89% F1.
 - 🚦 **[The Unsexy Secret](https://yranjan06.github.io/blog#unsexy-secret-building-llm-apps)**  - The 50 Example Method.
 - 🚦 **[Token Context Bottleneck](https://www.linkedin.com/pulse/architecting-future-agentic-tool-use-overcoming-token-ranjan-yadav-2idzc/)**  - Architecting the Future of Agentic Tool Use.
 - 🚦 **[Context Window Problem](https://www.linkedin.com/pulse/how-we-solved-context-window-problem-large-scale-web-scraping-yadav-a3pmc/?trackingId=wa2x9MlWKeoxEbgh8Ha7Rg%3D%3D)**  - How We Solved.
