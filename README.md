@@ -11,6 +11,10 @@ Experimental Projects
 
 <table border="0">
 <tr>
+  <td width="250">📄 <b><a href="https://github.com/yranjan06/rag-assistant">Document Intelligence</a></b></td>
+  <td>Production-style RAG pipeline featuring <b>Hybrid Search</b> (BM25 + Vector Fusion) and <b>Semantic Chunking</b>. Optimized for low-latency with Groq Llama 3.3 and quantified via RAGAS metrics.</td>
+</tr>
+<tr>
   <td width="250">🎵 <b><a href="https://github.com/yranjan06/dl-genai-project-26-t1">Messy Mashup</a></b></td>
   <td>Genre classification from noisy audio mashups. Progressive pipeline: XGBoost → CNN → CRNN → fine-tuned HuBERT. 94.89% F1. <a href="https://huggingface.co/spaces/imranjan/audio-genre-classifier">Live demo →</a></td>
 </tr>
