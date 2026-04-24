@@ -10,6 +10,7 @@ Recent Posts
 Experimental Projects 
 
 Experimental Projects 
+Experimental Projects 
 <table border="0">
 <tr>
   <td width="250">📄 <b><a href="https://github.com/yranjan06/rag-assistant">Document Intelligence</a></b></td>
@@ -21,7 +22,7 @@ Experimental Projects
 </tr>
 <tr>
   <td width="250">🎙️ <b><a href="https://github.com/yranjan06/ai-voice-assistant">Voice AI Agent</a></b></td>
-  <td>Voice-controlled local assistant with <b>3-tier intent classification</b> (Regex → Keywords → LLM). Supports compound commands, session memory, and sandboxed tool execution via Groq Whisper + Llama 3.3.</td>
+  <td>Voice-controlled local assistant with <b>3-tier intent classification</b> (Regex → Keywords → LLM). Supports compound commands, session memory, and sandboxed tool execution via Groq Whisper + Llama 3.3. <a href="https://www.youtube.com/watch?v=4SOt0sLOMq8&t=31s">Demo →</a></td>
 </tr>
 <tr>
   <td width="250">👻 <b><a href="https://github.com/yranjan06/WEBGhosting-MCP">WEBGhosting-MCP</a></b></td>
