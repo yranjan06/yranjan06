@@ -1,5 +1,10 @@
 Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasionally work on ML. Currently enjoying vibecoding.
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yranjan06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yranjan06&theme=default" />
+</picture>
+
 Recent Posts 
 
 - 🚦 **[How We Classified Music Genres From Noisy Audio](https://medium.com/@ranjanydv.code/how-we-classified-music-genres-from-noisy-audio-mashups-using-hubert-and-a-custom-pytorch-pipeline-04824f8d6de1)** - HuBERT, domain shift, and the data trick that hit 94.89% F1.
