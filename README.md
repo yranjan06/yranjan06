@@ -12,11 +12,13 @@ Recent Posts
 - 🚦 **[Token Context Bottleneck](https://www.linkedin.com/pulse/architecting-future-agentic-tool-use-overcoming-token-ranjan-yadav-2idzc/)**  - Architecting the Future of Agentic Tool Use.
 - 🚦 **[Context Window Problem](https://www.linkedin.com/pulse/how-we-solved-context-window-problem-large-scale-web-scraping-yadav-a3pmc/?trackingId=wa2x9MlWKeoxEbgh8Ha7Rg%3D%3D)**  - How We Solved.
 
-Experimental Projects 
+Experimental Projects
 
-Experimental Projects 
-Experimental Projects 
 <table border="0">
+<tr>
+  <td width="250">🤖 <b><a href="https://github.com/yranjan06/FILLO">Fillo v2</a></b> <sub>· Claude Code Hackathon</sub></td>
+  <td>Multi-agent job application engine. Resume + job URL → <b>6 specialized agents</b> (Researcher, Skill Mapper, Writer, Critic, Form Agent, Reviewer) collaborate with a <b>Critic feedback loop</b> for iterative refinement. Stack: CrewAI + Browser-Use + Inngest, free-tier first via Groq Llama 3.3 + Gemini 2.0 Flash vision.</td>
+</tr>
 <tr>
   <td width="250">📄 <b><a href="https://github.com/yranjan06/rag-assistant">Document Intelligence</a></b></td>
   <td>Production-style RAG pipeline featuring <b>Hybrid Search</b> (BM25 + Vector Fusion) and <b>Semantic Chunking</b>. Optimized for low-latency with Groq Llama 3.3 and quantified via RAGAS metrics.</td>
