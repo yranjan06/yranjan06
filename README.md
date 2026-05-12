@@ -1,4 +1,4 @@
-Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasionally work on ML. Currently enjoying vibecoding.
+Hi, Ranjan here. Data engineer. I build pipelines, cloud systems, and occasionally work on ML. Currently enjoying prompt engineering.
 
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yranjan06&theme=github_dark" />
