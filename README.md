@@ -61,13 +61,71 @@ Hi, Ranjan here. I build AI agents, RAG systems, and voice pipelines. Sometimes 
 
 ## Stack
 
-```
-AI / LLM    Groq · Claude · Gemini · OpenAI · AWS Bedrock · LiteLLM · CrewAI · LangChain
-Voice       Groq Whisper · Sarvam Bulbul v3
-RAG         pgvector · Qdrant · Chroma · HydraDB · RAGAS · Hybrid Search
-ML          PyTorch · HuBERT · LoRA/QLoRA · XGBoost · Hugging Face
-MCP         WEBGhosting-MCP (Go) · MongoDB MCP
-Frontend    React · Next.js 15 · Tailwind · shadcn/ui
-Backend     Python · FastAPI · Node.js · Express · PostgreSQL · MongoDB · Redis
-Infra       Docker · GitHub Actions · Vercel · Render · Google Cloud · Inngest · WandB
-```
+<table border="0">
+<tr>
+<td valign="top" width="50%">
+
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat&logoColor=white)
+
+**Voice**
+
+![Groq Whisper](https://img.shields.io/badge/Groq_Whisper-F55036?style=flat&logoColor=white)
+![Sarvam](https://img.shields.io/badge/Sarvam_Bulbul_v3-6C3FC4?style=flat&logoColor=white)
+
+**RAG & Vector**
+
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-22C55E?style=flat&logoColor=white)
+
+**ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat&logoColor=white)
+![WandB](https://img.shields.io/badge/W%26B-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat&logoColor=white)
+
+</td>
+</tr>
+</table>
