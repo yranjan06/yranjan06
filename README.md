@@ -7,7 +7,6 @@
 currently exploring <b>GPU engineering</b><br>
 <sub>open to AI engineering roles (intern or junior) · EST / IST / GMT</sub>
 </p>
-
 <p>
 <a href="https://yranjan06.github.io/">
   <img src="https://img.shields.io/badge/portfolio-FF1E56?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -28,13 +27,9 @@ currently exploring <b>GPU engineering</b><br>
   <img src="https://img.shields.io/badge/email-FB5607?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
 </div>
-
 <br>
-
 <table border="0" cellspacing="0" cellpadding="6">
-
 <tr>
 <td><sub><b>&nbsp;ai&nbsp;/&nbsp;llm&nbsp;</b></sub></td>
 <td>
@@ -51,7 +46,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;rag&nbsp;&amp;&nbsp;vector&nbsp;</b></sub></td>
 <td>
@@ -63,7 +57,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/RAGAS-22C55E?style=flat-square&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;voice&nbsp;</b></sub></td>
 <td>
@@ -72,7 +65,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/ElevenLabs-FF1E8E?style=flat-square&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;ml&nbsp;</b></sub></td>
 <td>
@@ -84,7 +76,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;backend&nbsp;</b></sub></td>
 <td>
@@ -98,7 +89,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;frontend&nbsp;</b></sub></td>
 <td>
@@ -109,7 +99,6 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/shadcn%2Fui-FF4D8D?style=flat-square&logoColor=white"/>
 </td>
 </tr>
-
 <tr>
 <td><sub><b>&nbsp;infra&nbsp;</b></sub></td>
 <td>
@@ -121,5 +110,4 @@ currently exploring <b>GPU engineering</b><br>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </td>
 </tr>
-
 </table>
