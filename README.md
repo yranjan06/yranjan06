@@ -76,5 +76,5 @@ TTFT · TPOT · Throughput · p95 / p99 latency · Prometheus · Grafana
 ---
 
 <div align="center">
-<sub>UNDERSTAND THE SYSTEM. MEASURE THE BOTTLENECK. IMPROVE THE PATH.</sub>
+<sub>Avaliable</sub>
 </div>
