@@ -6,7 +6,7 @@
 
 LLM serving · GPU performance · Systems optimization
 
-[Portfolio](https://yranjan06.github.io/)　/　[Devpost]([https://github.com/yranjan06](https://devpost.com/ranjanydv-code))　/　[Medium](https://medium.com/@ranjanydv.code)　/　[Email](mailto:ykranjan09@gmail.com)
+[Portfolio](https://yranjan06.github.io/)　/　[Devpost]((https://devpost.com/ranjanydv-code))　/　[Medium](https://medium.com/@ranjanydv.code)　/　[Email](mailto:ykranjan09@gmail.com)
 
 </div>
 
